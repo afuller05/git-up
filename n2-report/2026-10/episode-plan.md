@@ -29,8 +29,12 @@ Length: **30 seconds** (confirmed by Andy).
 |---|---|---|---|---|
 | 1 | Host in front of the real building (photo → 3D), autumn | Host | Lip-sync: "As the weather cools down, mice start looking for a warm place to stay. So this month, our IPM team is sealing up [building name]." | 8 s |
 | 2 | Close-up: technician packing copper mesh into a pipe gap + sealant | Tech only | VO: "A mouse can squeeze through a gap the size of a dime — so our technicians seal every opening…" | 7 s |
-| 3 | Second technician fitting a door sweep, then mesh over a vent | Tech only | VO: "…from pipe gaps and vents to door sweeps on every entrance." | 6 s |
-| 4 | Host with both technicians along the foundation, thumbs up | Host + techs | Lip-sync: "You can help too: keep food in sealed containers, take out the garbage, and report any signs of mice right away." | 9 s |
+| 3 | Second technician fitting a door sweep on an entrance door | Tech only | VO: "…from pipe gaps to door sweeps." | 5 s |
+| 4 | Technician installing a rodent-proof dryer vent cover on the exterior wall; host beside him, second tech helping | Host + techs | Lip-sync: "Even a dryer vent can let mice in, so we're installing proper vent covers. You can help too: keep food sealed, take out the garbage, and report any signs of mice right away." | 10 s |
+
+Safety note for shot 4: show a proper rodent-proof dryer vent cover (guard / louvered
+damper rated for dryer exhaust) — NOT fine mesh over a dryer vent (lint build-up = fire
+hazard). Photo of the product the team uses would help accuracy.
 
 Credits ~38k (4 stills ~3.6k, Kling 30 s ~20.4k, lip-sync 17 s ~13.7k, audio ~0.5k).
 
