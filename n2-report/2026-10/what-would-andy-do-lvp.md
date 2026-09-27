@@ -37,4 +37,7 @@ Characters: host (navy OCH polo) + tradesperson (ginger beard, cap, grey OCH pol
 ## Open questions
 
 - Tradesperson: same character as June (ginger beard, grey cap, grey OCH polo) — confirmed.
-- Coordinator: which character? (optional helper in shots 3–4)
+- Coordinator: short ginger beard, black cap, black OCH t-shirt, dark jeans, brown boots
+  (Firefly "Recreate this character…", 5 June 2026) — helper in shots 3–4.
+- Logo: character references carry AI placeholder text ("OCH LCO"); replace with real
+  OCH logo once the logo file is supplied.
