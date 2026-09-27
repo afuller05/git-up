@@ -21,9 +21,11 @@ Get the real logo PNG from Communications for future months.
 | # | Shot | Type | Length | Narration (Andrew voice) |
 |---|---|---|---|---|
 | 1 | Room B: host in doorway, tradesperson checking subfloor with straightedge | Host on camera — lip-sync | 12 s | "Welcome back to What Would Andy Do! Today we're installing LVP flooring. Before the first plank goes down, make sure the subfloor is clean and flat — pull any staples, scrape off old adhesive, vacuum, and fill low spots." |
-| 2 | Tradesperson clicking planks along long wall, coordinator handing planks, spacers at wall | Voiceover | 9 s | "Start along the longest wall, leave a quarter-inch gap at every wall for expansion, and stagger your seams at least six inches." |
-| 3a | Close-up: scoring plank against speed square (coordinator steadying it), snap | Voiceover | 5 s | "To cut — score it with a sharp utility knife against a square, and snap." |
-| 3b | Wide: finished section, all three turn to camera, thumbs up | Voiceover | 4 s | "Prep it right, install it right — that's What Andy Would Do!" |
+| 2 | Tradesperson clicking planks along long wall, coordinator handing planks, spacers at wall — **host out of frame** | Voiceover | 9 s | "Start along the longest wall, leave a quarter-inch gap at every wall for expansion, and stagger your seams at least six inches." |
+| 3a | Close-up: hands scoring plank against speed square, snap — **host out of frame** (MC Dan scoring; character TBC) | Voiceover | 5 s | "To cut — score it with a sharp utility knife against a square, and snap." |
+| 3b | Wide: finished section, all three turn to camera, thumbs up | Host on camera — lip-sync | 4 s | "Prep it right, install it right — that's What Andy Would Do!" |
+
+Rule: any shot where the speaker is visible is lip-synced; voiceover only when off-screen.
 
 ## Credit estimate
 
@@ -31,9 +33,9 @@ Get the real logo PNG from Communications for future months.
 |---|---|
 | Stills (2 done + 3 more) | ~3,300 |
 | Kling animation, 30 s | ~20,400 |
-| Lip-sync, shot 1 (12 s) | ~9,700 |
+| Lip-sync, shots 1 + 3b (16 s) | ~12,900 |
 | Narration + music | ~700 |
 | Mix / assembly | 0 |
-| **Total** | **~34,000** |
+| **Total** | **~37,000** |
 
 Earlier 52-second, 5-shot draft (~66,000 credits) was cut for length.
