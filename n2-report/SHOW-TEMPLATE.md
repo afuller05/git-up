@@ -43,6 +43,11 @@ Segments 04–09 rotate with the month's news; drop or repeat as needed.
 > lighting, gentle depth of field, clean detailed environments, realistic
 > materials, cheerful but grounded tone. 16:9 widescreen.
 
+**Brand (OCH 2023 Branding Guide, in Creative Cloud "N2 Report Characters"):** clothing
+logo = house icon + stacked "OCH / LCO" (on navy garments use white lettering). Colours:
+dark green PMS 568, navy PMS 540, red #F04937 (PMS 179), cyan #1FC0DA (PMS 311),
+grey PMS 420. Fonts: Montserrat (design), Arial (documents).
+
 **Title card:** dark navy tech background with faint network lines, two glowing teal
 horizontal rules, "THE N2 REPORT" in white bold condensed caps, subtitle
 "Ottawa Community Housing" and "Month Year" in white below.
@@ -51,7 +56,8 @@ horizontal rules, "THE N2 REPORT" in white bold condensed caps, subtitle
 
 | Character | Look (keep consistent) | Seen in |
 |---|---|---|
-| **Host** | Middle-aged man, short dark receding hair, big friendly eyes, navy polo with OCH logo on left chest, charcoal slacks, brown belt, brown shoes, wristwatch | Every episode |
+| **Host (Andy)** | **Rebuilt Sept 2026 from Andy's headshot:** 6', ~290 lb, broad heavyset build; round full face, receding thin mid-brown hair, smaller warm eyes with smile lines, soft brows, closed-mouth smile. Navy polo with official OCH clothing logo (icon + white "OCH / LCO") on left chest, charcoal slacks, brown belt/shoes, wristwatch. Reference files: Creative Cloud "N2 Report Characters" | Every episode |
+| Coordinator (MC Dan) | Short ginger beard, black cap, black OCH t-shirt, dark jeans, brown boots | What Would Andy Do (Oct 2026) |
 | Staff — black shirt | Bald man, short grey beard, black button shirt with logo, grey trousers | Welcome (04) |
 | Staff — navy polo #2 | Dark hair, navy OCH polo, grey trousers | Introduction (05), high-rise |
 | IPM guests | Man with glasses, beard, light-blue shirt and tie; young man in white shirt (thumbs up) | IPM (06) |
