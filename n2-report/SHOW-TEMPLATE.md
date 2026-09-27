@@ -101,6 +101,28 @@ horizontal rules, "THE N2 REPORT" in white bold condensed caps, subtitle
 A June-sized episode (~15–18 clips) ≈ US$15–20 in final-render credits.
 Rules: approve stills first; price-check before every batch; draft cheap, finish on 3.0 Pro.
 
+### Scene recipes (learned from June 2026 + October 2026 opener)
+
+June clips were single continuous 15 s shots rendered **silent**; narration was laid on
+top afterwards, which is why mouths did not match. Only the host speaks on camera;
+other characters act (walk in, slide gag) but do not talk.
+
+| Scene type | Example | Method | ≈ Credits / 15 s |
+|---|---|---|---|
+| Host talks + walks, guests act | Cold open (host walks, catches kid off slide); Martin welcome (Martin walks in) | Kling 3.0 Pro (silent, start frame) → Sync 3 lip-sync with Andrew narration (`sync_mode: silence`) | ~22,300 |
+| Host talks, little movement | Straight to-camera line | OmniHuman 1.5 (still + narration) | ~10,000 per ~10 s |
+| No one talks on camera | Montage, building shots, office action | Kling animation + narration as voiceover (no lip-sync) | ~10,200 |
+| Candidate to test | Host talks + walks, cheaper | Kling 3.0 Pro with native audio → voice changer to Andrew | ~15,400 |
+| Rejected | — | Seedance 2.5 with reference audio | ~94,000 (too expensive) |
+
+Rules of thumb:
+- Guests must appear in the **start still** (e.g. far in the background) because Kling 3.0 Pro
+  only takes a start frame; build that still from host + guest references.
+- With two faces in frame, check that lip-sync animates the host, not the guest.
+- Music + narration mixing and final assembly can be done free (ElevenLabs composition
+  costs 0 credits, or a local ffmpeg mix).
+- Budget: ElevenLabs Creator plan = 121k credits/month ≈ 5 lip-synced host scenes.
+
 ## 8. Monthly intake checklist (send this to Claude)
 
 - [ ] Month / year
