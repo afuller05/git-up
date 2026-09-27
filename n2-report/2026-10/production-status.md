@@ -1,6 +1,19 @@
 # N2 Report — October 2026 Production Status
 
-Last updated: 27 Sept 2026
+Last updated: 27 Sept 2026 (evening)
+
+## ✅ Finished segments
+
+| Segment | File | Length | Notes |
+|---|---|---|---|
+| Opener | `N2_Oct2026_01_Opener.mp4` | 15 s | Professional voice (take 1), lip-synced, autumn music bed |
+| What Would Andy Do — LVP | `N2_Oct2026_04_WhatWouldAndyDo_LVP.mp4` | 32 s | Shots 1 + 3b lip-synced; 2 + 3a voiceover; AI-added wall logo removed from shot 2 in post |
+
+Render credits used: narration ~900, Kling (47 s) ~31,900, lip-sync (33 s) ~26,700,
+music ~500 → **~60,000**. Remaining balance ≈ 90,000.
+
+Lessons: plan allows max **5 concurrent generations** — batch renders in groups of ≤5.
+Check every Kling clip for invented signage/logos (shot 2 added a wall logo).
 
 ElevenLabs canvas: https://elevenlabs.io/app/flows/H6MPouLFhu31nQROwvoW
 
