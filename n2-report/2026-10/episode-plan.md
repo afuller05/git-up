@@ -35,10 +35,11 @@ how mice get in, what to look for, seal or report what you find.
 | 1 | Host in front of the real building (photo → 3D), autumn | Host | Lip-sync: "Team, as it gets colder, mice start looking for a way in. This month our IPM team is sealing up [building name] — and here's what to watch for at your sites." | 9 s |
 | 2 | Close-up: technician packing copper mesh into a gap where a pipe enters the wall, then sealant | Tech only | VO: "A mouse can squeeze through a gap the size of a dime — so check anywhere pipes, wires or vents come through the wall." | 7 s |
 | 3 | Technician checking the bottom of an entrance door, fitting a new door sweep; droppings/gnaw marks nearby | Tech only | VO: "Watch for droppings, gnaw marks, and worn or missing door sweeps." | 5 s |
-| 4 | Technician installing a rodent-proof dryer vent cover; host beside him, second tech helping | Host + techs | Lip-sync: "Dryer vents need proper rodent-proof covers. If you find a gap, seal it with copper mesh and sealant — or report it to IPM right away." | 9 s |
+| 4 | Technician installing a rodent-proof dryer vent cover; host beside him, second tech helping | Host + techs | Lip-sync: "Dryer vents need proper rodent-proof covers. If you find a gap, seal it with copper mesh and sealant — and if you see signs of mice, report them to the IPM team right away." | 9 s |
 
-Open questions: how staff should report (work order / system / email / phone)? Should
-maintenance staff seal small gaps themselves, or report everything to IPM?
+Confirmed: staff seal gaps they find; signs of mice are reported to the IPM team.
+Open question: exact reporting channel (work order / system / email / phone), if it
+should be named on screen.
 Optional: an IPM technician speaks one line (own designed voice, +~4k lip-sync).
 
 Safety note for shot 4: show a proper rodent-proof dryer vent cover (guard / louvered
