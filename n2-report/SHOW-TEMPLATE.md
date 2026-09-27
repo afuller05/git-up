@@ -123,6 +123,9 @@ other characters act (walk in, slide gag) but do not talk.
 | Candidate to test | Host talks + walks, cheaper | Kling 3.0 Pro with native audio → voice changer to Andrew | ~15,400 |
 | Rejected | — | Seedance 2.5 with reference audio | ~94,000 (too expensive) |
 
+**Only the host speaks.** Other characters act on screen but never have speaking lines —
+this is the show's long-standing format.
+
 **Lip-sync rule (from the producer):** if the person speaking is visible in the shot — even
 in the background — their lips must be synced to the audio. Voiceover is only allowed when
 the speaker is completely out of frame (e.g. close-up of hands doing a task). Write prompts

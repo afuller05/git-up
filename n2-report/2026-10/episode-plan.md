@@ -40,7 +40,7 @@ how mice get in, what to look for, seal or report what you find.
 Confirmed: staff seal small gaps themselves; signs of mice are reported to the IPM team.
 Open question: exact reporting channel (work order / system / email / phone), if it
 should be named on screen.
-Optional: an IPM technician speaks one line (own designed voice, +~4k lip-sync).
+Only the host speaks (show convention) — technicians do not have speaking lines.
 
 Safety note for shot 4: show a proper rodent-proof dryer vent cover (guard / louvered
 damper rated for dryer exhaust) — NOT fine mesh over a dryer vent (lint build-up = fire
