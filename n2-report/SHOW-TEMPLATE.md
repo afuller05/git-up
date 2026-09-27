@@ -131,6 +131,22 @@ in the background — their lips must be synced to the audio. Voiceover is only 
 the speaker is completely out of frame (e.g. close-up of hands doing a task). Write prompts
 for voiceover shots so the speaker is clearly off-screen.
 
+**Procedural accuracy (trade techniques)** — Oct 2026 feedback: Kling showed a plank laid on
+top of another instead of at the open end of the row, and a random cut/snap instead of
+scoring along the square. AI video knows what tools look like, not how the job is done.
+1. **Best: Motion Control** (`kling-3-pro-motion-control`, inputs: character `image` +
+   reference `video`). Film 5–10 s of the real action on a phone (landscape, steady, good
+   light, action fills the frame, one action per clip); the character copies it exactly.
+   Plan to film real crews (e.g. IPM exclusion work) whenever a segment shows a technique.
+2. **Start + end frames for every procedure** (e.g. plank angled at the open end of the
+   row → plank flat and locked; knife at one end of the line against the square → at the
+   other end with a scored line; scored plank → two clean pieces split on the line).
+3. **One action per clip** (score and snap = two 3 s shots).
+4. **Producer storyboard check**: Andy approves start/end stills for each action before any
+   animation.
+5. **Precise prompts + negatives** ("insert at the open end of the last row, angled into the
+   groove, press flat until it locks"; "no plank on top of another plank, no random cuts").
+
 Rules of thumb:
 - **Default for guest entrances: start + end frame.** Start still = host alone; end still =
   host + guest together (approve both stills first, ~420 credits each). Kling 3.0 Pro
