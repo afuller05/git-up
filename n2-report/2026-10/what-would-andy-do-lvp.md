@@ -1,6 +1,6 @@
 # What Would Andy Do — Installing LVP Flooring (October 2026)
 
-Status: **30-second version proposed; shot 1 still approved (Option B)**
+Status: **✅ Delivered v2 (33 s), 27 Sept 2026** — shots 2 and 3a re-shot for technique accuracy
 
 Target length ~30 s (segment was ~30 s in June; full episode 2.5–3 min).
 
@@ -26,6 +26,16 @@ Get the real logo PNG from Communications for future months.
 | 3b | Wide: finished section, all three turn to camera, thumbs up | Host on camera — lip-sync | 4 s | "Prep it right, install it right — that's What Andy Would Do!" |
 
 Rule: any shot where the speaker is visible is lip-synced; voiceover only when off-screen.
+
+### v2 re-shoot (technique accuracy)
+
+| Shot | Start frame | End frame | Length |
+|---|---|---|---|
+| 2 Install | New plank angled into the open end of the last row | Plank flat and locked, tapped with block + mallet; MC Dan holds next plank | 9 s |
+| 3a Score | Speed square fence hooked on plank edge, knife at near edge against the leg | Knife at far edge, straight score line full width | 3 s |
+| 3a Snap | Plank bent along the score line (tools set aside) | Two clean pieces, straight square break | 3 s |
+
+Shot 3a narration now plays over the 6 s score + snap block. Storyboard: `wwad-redo-storyboard.png`.
 
 ## Credit estimate
 

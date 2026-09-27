@@ -1,19 +1,29 @@
 # N2 Report — October 2026 Production Status
 
-Last updated: 27 Sept 2026 (evening)
+Last updated: 27 Sept 2026 (late evening — WWAD v2)
 
 ## ✅ Finished segments
 
 | Segment | File | Length | Notes |
 |---|---|---|---|
 | Opener | `N2_Oct2026_01_Opener.mp4` | 15 s | Professional voice (take 1), lip-synced, autumn music bed |
-| What Would Andy Do — LVP | `N2_Oct2026_04_WhatWouldAndyDo_LVP.mp4` | 32 s | Shots 1 + 3b lip-synced; 2 + 3a voiceover; AI-added wall logo removed from shot 2 in post |
+| What Would Andy Do — LVP (v2) | `N2_Oct2026_04_WhatWouldAndyDo_LVP.mp4` | 33 s | Shots 1 + 3b lip-synced; 2 + 3a voiceover. **v2:** shot 2 (install) and 3a (score + snap) re-shot with start/end frames for correct technique — see `wwad-redo-storyboard.png` |
 
 Render credits used: narration ~900, Kling (47 s) ~31,900, lip-sync (33 s) ~26,700,
 music ~500 → **~60,000**. Remaining balance ≈ 90,000.
 
+WWAD v2 redo (after Andy's accuracy feedback): stills ~6,300 (several rejected attempts), Kling
+15 s ~10,200 → **~16,500**. Remaining balance ≈ 73,500.
+
 Lessons: plan allows max **5 concurrent generations** — batch renders in groups of ≤5.
 Check every Kling clip for invented signage/logos (shot 2 added a wall logo).
+Trade technique: v1 showed a plank laid on top of another and a random cut/snap. Fixed in v2 by
+start + end frames per action, one action per clip, and a storyboard approved by Andy first.
+Keep start and end stills identical except for the action — any other difference (e.g. more
+floor finished in the end still) makes Kling "morph" it mid-clip (v2 install: subfloor fills in
+with LVP over ~0.5 s around 6 s — minor, accepted).
+Speed square technique: fence hooked on the plank edge, knife drawn along the leg across the full
+width, then bend and snap along the score.
 
 ElevenLabs canvas: https://elevenlabs.io/app/flows/H6MPouLFhu31nQROwvoW
 
