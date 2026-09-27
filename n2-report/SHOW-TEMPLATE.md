@@ -110,14 +110,19 @@ other characters act (walk in, slide gag) but do not talk.
 | Scene type | Example | Method | ≈ Credits / 15 s |
 |---|---|---|---|
 | Host talks + walks, guests act | Cold open (host walks, catches kid off slide) | Kling 3.0 Pro (silent, start frame) → Sync 3 lip-sync with Andrew narration (`sync_mode: silence`) | ~22,300 |
-| Guest walks in from off-screen | Martin welcome | Kling O3 Pro (start frame + guest reference image) → Sync 3 lip-sync | ~22,300 |
+| Guest walks in from off-screen | Martin welcome | Kling 3.0 Pro with start frame (host alone) + end frame (host + guest) → Sync 3 lip-sync | ~23,100 incl. 2 stills |
+| Guest enters, no fixed ending | — | Kling O3 Pro (start frame + guest reference image) → Sync 3 lip-sync | ~22,300 |
 | Host talks, little movement | Straight to-camera line | OmniHuman 1.5 (still + narration) | ~10,000 per ~10 s |
 | No one talks on camera | Montage, building shots, office action | Kling animation + narration as voiceover (no lip-sync) | ~10,200 |
 | Candidate to test | Host talks + walks, cheaper | Kling 3.0 Pro with native audio → voice changer to Andrew | ~15,400 |
 | Rejected | — | Seedance 2.5 with reference audio | ~94,000 (too expensive) |
 
 Rules of thumb:
-- Guests walking in from off-screen: use **Kling O3 Pro** with the host-only still as
+- **Default for guest entrances: start + end frame.** Start still = host alone; end still =
+  host + guest together (approve both stills first, ~420 credits each). Kling 3.0 Pro
+  animates between them from a prompt describing the entrance. Guaranteed ending
+  composition and guest likeness. Likely how the June Martin welcome was made.
+- Alternative (no fixed ending, e.g. slide gag): **Kling O3 Pro** with the host-only still as
   `start_frame` plus each guest as a `reference_images` input (same cost as Kling 3.0 Pro,
   ~10,180 credits / 15 s). This is how the June Martin welcome was made in Firefly.
   (Kling 3.0 Pro only takes a start frame, so there guests must already be in the still.)
