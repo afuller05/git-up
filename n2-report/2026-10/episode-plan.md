@@ -27,10 +27,19 @@ Length: **30 seconds** (confirmed by Andy).
 
 | # | Shot | Visible | Audio | Length |
 |---|---|---|---|---|
-| 1 | Host in front of the real building (photo → 3D), autumn | Host | Lip-sync: "As the weather cools down, mice start looking for a warm place to stay. So this month, our IPM team is sealing up [building name]." | 8 s |
-| 2 | Close-up: technician packing copper mesh into a pipe gap + sealant | Tech only | VO: "A mouse can squeeze through a gap the size of a dime — so our technicians seal every opening…" | 7 s |
-| 3 | Second technician fitting a door sweep on an entrance door | Tech only | VO: "…from pipe gaps to door sweeps." | 5 s |
-| 4 | Technician installing a rodent-proof dryer vent cover on the exterior wall; host beside him, second tech helping | Host + techs | Lip-sync: "Even a dryer vent can let mice in, so we're installing proper vent covers. You can help too: keep food sealed, take out the garbage, and report any signs of mice right away." | 10 s |
+**Audience: OCH staff** (property managers, maintenance workers) — not tenants. Message:
+how mice get in, what to look for, seal or report what you find.
+
+| # | Shot | Visible | Audio | Length |
+|---|---|---|---|---|
+| 1 | Host in front of the real building (photo → 3D), autumn | Host | Lip-sync: "Team, as it gets colder, mice start looking for a way in. This month our IPM team is sealing up [building name] — and here's what to watch for at your sites." | 9 s |
+| 2 | Close-up: technician packing copper mesh into a gap where a pipe enters the wall, then sealant | Tech only | VO: "A mouse can squeeze through a gap the size of a dime — so check anywhere pipes, wires or vents come through the wall." | 7 s |
+| 3 | Technician checking the bottom of an entrance door, fitting a new door sweep; droppings/gnaw marks nearby | Tech only | VO: "Watch for droppings, gnaw marks, and worn or missing door sweeps." | 5 s |
+| 4 | Technician installing a rodent-proof dryer vent cover; host beside him, second tech helping | Host + techs | Lip-sync: "Dryer vents need proper rodent-proof covers. If you find a gap, seal it with copper mesh and sealant — or report it to IPM right away." | 9 s |
+
+Open questions: how staff should report (work order / system / email / phone)? Should
+maintenance staff seal small gaps themselves, or report everything to IPM?
+Optional: an IPM technician speaks one line (own designed voice, +~4k lip-sync).
 
 Safety note for shot 4: show a proper rodent-proof dryer vent cover (guard / louvered
 damper rated for dryer exhaust) — NOT fine mesh over a dryer vent (lint build-up = fire
@@ -43,8 +52,6 @@ doors, vents); building name and OK to show it; number of technicians + a photo 
 for likeness (or generic OCH IPM techs); names/roles for credit; confirm methods (copper
 mesh / steel wool, sealant, door sweeps, vent screening). No tenant faces, unit numbers or
 licence plates.
-
-**Bonus:** reuse shots 2–3 as a short bilingual tenant notice for that building.
 
 ## Segment 3 — Community spotlight: Caldwell & Heatherington
 
