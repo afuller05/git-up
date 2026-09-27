@@ -1,43 +1,39 @@
-# What Would Andy Do — Installing LVP Flooring (October 2026, DRAFT)
+# What Would Andy Do — Installing LVP Flooring (October 2026)
 
-Status: **script approved (48-hour acclimation line removed); stills in progress**
+Status: **30-second version proposed; shot 1 still approved (Option B)**
 
-Optional: coordinator character helps with the install in shots 3–4 (character TBC).
+Target length ~30 s (segment was ~30 s in June; full episode 2.5–3 min).
 
-Setting: vacant unit mid-turnover, bare subfloor, boxes of LVP by the wall, afternoon light.
-Characters: host (navy OCH polo) + tradesperson (ginger beard, cap, grey OCH polo, tool belt — from June 8a).
+Setting: vacant unit mid-turnover, bare plywood subfloor, boxes of LVP by the wall, afternoon light.
 
-## Shot list (~52 s)
+Characters:
+- Host — navy OCH polo (Firefly host character sheet, 5 June 2026).
+- Tradesperson — full ginger beard, grey cap, grey OCH polo, tool pouch (June WWAD scene).
+- Coordinator — short ginger beard, black cap, black OCH t-shirt, dark jeans, brown boots
+  (Firefly "Recreate this character…", 5 June 2026). Helper in shots 2–3.
+
+Logo: no real OCH logo file exists in Creative Cloud/Firefly (character references carry
+AI placeholder text "OCH LCO"). For October, render a small, non-legible chest emblem.
+Get the real logo PNG from Communications for future months.
+
+## Shot list (~30 s)
 
 | # | Shot | Type | Length | Narration (Andrew voice) |
 |---|---|---|---|---|
-| 1 | Wide: host in doorway, tradesperson kneeling checking floor with a straightedge | Host on camera — lip-sync | 12 s | "Welcome back to What Would Andy Do! Today we're putting down LVP flooring in a unit turnover — and the most important step happens before the first plank goes down: the subfloor." |
-| 2 | Close-ups: scraping adhesive, pulling a staple, vacuuming, straightedge, trowelling patch | Voiceover | 10 s | "Scrape off old adhesive, pull any nails or staples, and vacuum it clean. Then make sure it's flat — fill the low spots, sand down the high spots." |
-| 3 | Medium: host beside tradesperson clicking planks along long wall, spacers visible (optional: coordinator handing him planks) | Host on camera — lip-sync | 12 s | "Start along the longest wall, leave a quarter-inch gap at every wall for expansion, and stagger your seams at least six inches so no two line up." |
-| 4 | Close-up: measure, mark, score with utility knife against speed square, snap | Voiceover | 10 s | "To cut — measure and mark, score the top with a sharp utility knife against a square, then snap it. Always cut away from your body, and wear knee pads." |
-| 5 | Wide: finished section, both turn to camera, thumbs up | Host on camera — lip-sync | 8 s | "And always check the manufacturer's instructions. Prep it right, install it right — that's What Andy Would Do!" |
-
-## Build method
-
-- One approved master-room still for continuity across all shots.
-- Shots 1, 3, 5: Kling 3.0 Pro with start + end frames → Sync 3 lip-sync.
-- Shots 2, 4: Kling close-ups, narration as voiceover (no lip-sync).
-- Music + mix + assembly: free (local mix / ElevenLabs composition).
+| 1 | Room B: host in doorway, tradesperson checking subfloor with straightedge | Host on camera — lip-sync | 12 s | "Welcome back to What Would Andy Do! Today we're installing LVP flooring. Before the first plank goes down, make sure the subfloor is clean and flat — pull any staples, scrape off old adhesive, vacuum, and fill low spots." |
+| 2 | Tradesperson clicking planks along long wall, coordinator handing planks, spacers at wall | Voiceover | 9 s | "Start along the longest wall, leave a quarter-inch gap at every wall for expansion, and stagger your seams at least six inches." |
+| 3a | Close-up: scoring plank against speed square (coordinator steadying it), snap | Voiceover | 5 s | "To cut — score it with a sharp utility knife against a square, and snap." |
+| 3b | Wide: finished section, all three turn to camera, thumbs up | Voiceover | 4 s | "Prep it right, install it right — that's What Andy Would Do!" |
 
 ## Credit estimate
 
 | Item | Credits |
 |---|---|
-| Stills (~7) | ~3,000 |
-| Kling animation, 52 s | ~35,300 |
-| Lip-sync, 32 s | ~25,900 |
-| Narration + music | ~2,000 |
-| **Total** | **~66,000** (lean version without shot 5 lip-sync: ~59,000) |
+| Stills (2 done + 3 more) | ~3,300 |
+| Kling animation, 30 s | ~20,400 |
+| Lip-sync, shot 1 (12 s) | ~9,700 |
+| Narration + music | ~700 |
+| Mix / assembly | 0 |
+| **Total** | **~34,000** |
 
-## Open questions
-
-- Tradesperson: same character as June (ginger beard, grey cap, grey OCH polo) — confirmed.
-- Coordinator: short ginger beard, black cap, black OCH t-shirt, dark jeans, brown boots
-  (Firefly "Recreate this character…", 5 June 2026) — helper in shots 3–4.
-- Logo: character references carry AI placeholder text ("OCH LCO"); replace with real
-  OCH logo once the logo file is supplied.
+Earlier 52-second, 5-shot draft (~66,000 credits) was cut for length.
